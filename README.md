@@ -1,4 +1,3 @@
-# financial_pattern_detection
 # Financial Market Vision & Quantitative Pattern Detection
 
 A complete Python project that combines **quantitative candlestick pattern detection** with **computer vision** techniques for financial chart analysis.

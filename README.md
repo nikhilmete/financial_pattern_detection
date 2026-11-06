@@ -1,0 +1,1 @@
+# financial_pattern_detection
